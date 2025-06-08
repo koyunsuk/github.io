@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background: #fff;
+  color: #222;
+  line-height: 1.6;
+}
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.5em 0 0.2em;
+}
+nav a {
+  margin: 0 1em;
+  color: #0066cc;
+  text-decoration: none;
+}
+section {
+  max-width: 800px;
+  margin: 2rem auto;
+}
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #888;
+  margin-top: 4rem;
+}
